@@ -36,7 +36,7 @@ const DesktopLayout = () => {
                 </div>
                 <div className="hidden lg:block w-[0.5px] md:h-10 lg:h-9 bg-slate-300" />
                 <button
-                  onClick={() => (window.location.href = "https://fingoo.app")}
+                  onClick={() => (window.location.href = "https://fingoo.site")}
                   className="inline-flex items-center w-auto md:w-full lg:w-auto justify-center gap-2 bg-[#63c8bc] text-white text-base md:text-lg font-bold px-3 py-1 rounded-lg transition"
                 >
                   <Image
